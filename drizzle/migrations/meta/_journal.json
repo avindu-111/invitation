@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1793170499770,
+      "tag": "0000_rsvps_and_roles",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1794049740482,
+      "tag": "0001_couple_role_single_email",
+      "breakpoints": true
+    }
+  ]
+}
