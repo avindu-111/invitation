@@ -1,7 +1,7 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { useEffect, useState } from "react";
 import type { Session } from "@supabase/supabase-js";
-import { supabase } from "@/integrations/supabase/client";
+import { supabase } from "@/integrationsupabase/supabase/client";
 import { ThemeToggle } from "@/components/wedding/ThemeToggle";
 import { Trash2 } from "lucide-react";
 
